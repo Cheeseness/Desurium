@@ -1,3 +1,8 @@
+NOTE
+==================
+This repository is a snapshot of the GPLv3 Desurium codebase at the point that I withdrew from the development community due to being uncomfortable with an impending licence chance and CLA that the development community had ovjections to.
+More details can be found here: https://github.com/desura/Desurium/issues/638
+
 Content
 ==================
 
